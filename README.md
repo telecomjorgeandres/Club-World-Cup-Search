@@ -31,7 +31,9 @@ Should it be 'asc' (smallest first) or 'desc' (largest first)? asc
 
 --- Here are your results, sorted by age (smallest first)! --- Name Nationality Position Age Market Value Team
 Franco Mastantuono Argentina Midfielder 17 $80,000,000 Real Madrid Jude Bellingham England Midfielder 21 $180,000,000 Real Madrid Vinicius Jr. Brazil Forward 24 $150,000,000 Real Madrid
+
 Would you like to perform another search? (type 'yes' or 'no'): no
+
 Thanks again for using the Player Search Engine! Have a great day!
 
 ## Technologies Used
